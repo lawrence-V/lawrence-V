@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawrence-v" alt="lawrence-v" /></a> </p>
 
-- 🔭 I’m currently working on **SOBL developenet**
+- 🔭 I’m currently working on **SOBL development**
 
 - 🌱 I’m currently learning **nuxt and flutter**
 
