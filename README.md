@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Hola , I'm Lawrence Valdez! 👋
 
-- 🔭 I’m currently working on SOLB Development
+
 - 🌱 I’m currently learning Flutter & Nuxt
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
