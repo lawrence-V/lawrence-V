@@ -2,7 +2,7 @@
 ### Hola , I'm Lawrence Valdez! 👋
 
 
-- 🌱 I’m currently learning Flutter & Nuxt
+- 🌱 I’m currently learning   Nuxt
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about tech realted stuf
